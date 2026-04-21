@@ -1,1 +1,1 @@
-# grug-for-cortex-command
+# grug for Cortex Command
