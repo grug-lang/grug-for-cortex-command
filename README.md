@@ -6,7 +6,7 @@ This repository provides example mods for the [Cortex Command Community Project]
 
 Each example in this repository is a mod. To try one, copy the example folder into your game's `Mods` directory.
 
-You can press F2 to reload the grug and Lua code. A future version of `grug.lua` will automatically reload the grug code.
+You can press F2 to reload the grug and Lua code. A future version of `grug.lua` will automatically reload grug code.
 
 > [!IMPORTANT]
 > Each example requires [`grug.lua`](https://github.com/grug-lang/grug-for-lua/blob/main/grug.lua). Download it and place it inside the example's folder.
