@@ -1,0 +1,28 @@
+{
+    "entities": {
+        "Gun": {
+            "description": "A gun.",
+            "on_functions": [
+                {
+                    "name": "on_fire",
+                    "description": "Called on every tick where the gun fired a round."
+                }
+            ]
+        }
+    },
+    "game_functions": {
+        "get_rate_of_fire": {
+            "description": "Returns self.RateOfFire.",
+            "return_type": "number"
+        },
+        "set_rate_of_fire": {
+            "description": "Sets self.RateOfFire.",
+            "arguments": [
+                {
+                    "name": "rate_of_fire",
+                    "type": "number"
+                }
+            ]
+        }
+    }
+}

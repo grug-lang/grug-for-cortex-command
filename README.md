@@ -6,5 +6,7 @@ This repository hosts example [Cortex Command Community Project](https://cortex-
 
 You can run any example mod yourself by copying it to the game's `Mods` directory.
 
+You will also always need to put [grug.lua](https://github.com/grug-lang/grug-for-lua/blob/main/grug.lua) in those mods.
+
 > [!IMPORTANT]
 > You will need to update the `SupportedGameVersion = 7.0.0` line in mods their `Index.ini` files, if you aren't playing on Cortex Command Community Project version 7.0.0.
