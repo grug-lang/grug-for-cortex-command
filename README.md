@@ -1,6 +1,6 @@
 # grug for Cortex Command
 
-This repository hosts example [Cortex Command Community Project](https://cortex-command-community.github.io/) mods that use [grug-for-lua](github.com/grug-lang/grug-for-lua) to run [grug](https://github.com/grug-lang/grug) code.
+This repository hosts example [Cortex Command Community Project](https://cortex-command-community.github.io/) mods that use [grug-for-lua](https://github.com/grug-lang/grug-for-lua) to run [grug](https://github.com/grug-lang/grug) code.
 
 ## Examples
 
