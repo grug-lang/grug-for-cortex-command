@@ -6,5 +6,5 @@ This repository hosts example [Cortex Command Community Project](https://cortex-
 
 You can run any example mod yourself by copying it to the game's `Mods` directory.
 
-> ![NOTE]
+> [!IMPORTANT]
 > You will need to update the `SupportedGameVersion = 7.0.0` line in mods their `Index.ini` files, if you aren't playing on Cortex Command Community Project version 7.0.0.
