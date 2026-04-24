@@ -1,7 +1,7 @@
 on_fire() {
     rof: number = get_rate_of_fire()
     set_rate_of_fire(rof * 1.2)
-    if rof > 2000 {
+    if rof > 3000 {
         set_rate_of_fire(60)
     }
 }
